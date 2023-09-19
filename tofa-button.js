@@ -1,4 +1,3 @@
-// Define a function that accepts the options as an argument
 function createTofaButton(options) {
   const {
     label,
